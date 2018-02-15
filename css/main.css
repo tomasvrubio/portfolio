@@ -1,0 +1,113 @@
+body {
+  padding-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h6, p, li, ul, ol, span {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#header h1{
+  border-bottom: #000 dashed 2px;
+  margin: 0;
+  padding: 10px;
+  text-align: right;
+}
+
+h2 {
+  padding-bottom: 1px;
+  
+}
+
+h2 span {
+  background-color: yellow;
+}
+
+.bloque>div {
+  padding-top: 15px;
+}
+
+#knowledge ul, #learning ul, #professional ul {
+  list-style-type: none;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#knowledge li>.cabecera {
+  align-items: center;
+  display: flex;
+}
+
+#knowledge li {
+  padding-bottom: 3px;
+}
+
+/* Como hacer para trata de una manera a los pares y de otra a los impares? No me acuerdo... odd/even */
+/*
+#knowledge li:nth-child(even){
+  background-color: rgba(199, 197, 197, 0.388);
+}
+*/
+
+#knowledge li>a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/*
+#knowledge li>a:hover {
+  text-decoration: none;
+  color: blue;
+  transition: color 1s ease-out;
+}
+*/
+
+.icono {
+  background-color: white;
+  height: 40px;
+  padding-right: 10px;
+  width: 40px;
+}
+
+.flecha {
+  height: 10px;
+  padding-right: 5px;
+  transform: rotate(-90deg) translateX(4px);
+  transition: transform ease 0.5s;
+  width: 10px;
+}
+
+.flecha-gira {
+  transform: rotate(0deg);
+}
+
+.extra {
+  background-color: white;
+  display: block;
+  opacity: 1;
+  padding-left: 60px;
+  padding-bottom: 10px;
+  transition: all 0.5s ease-out;
+}
+
+.extra>span {
+  display: block;
+}
+
+.hide {
+  height: 0px;
+  opacity: 0;
+  overflow: hidden;
+  padding-bottom: 0px;
+}
+
+#contact ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#contact ul li {
+  float: left;
+  padding: 10px;
+}
+

@@ -1,0 +1,22 @@
+ME FALTA
+........
+
+	* Documentación HTML, CSS, ... Offline. Si dudo me quedo parado en el tren.
+	* Meter lecturas que considero recomendables:
+		- El bazar y la catedral.
+		- Lecciones sobre startups.
+	* Poner una foto en la parte superior.
+	* Dejar lista la parte inferior con los links a mis sitios.
+	* Conseguir que sólo aparezca amarillo cuando se escribe. Hacer que los titulos ocupen sólo el espacio del texto pero que los elementos de después vayan debajo. -> span dentro de h2.
+	* Mejorar el contenido de los textos.
+	* Copiar los enlaces que ya tengo recopilados.
+
+	* Proximos proyectos:
+		+ Migrar a NODE yt-audio.
+		+ Una web donde poder ver los gpx de mis carreras. Calendario mensual de dias que he salido. Recopilación de valores. Comparativa entre unos y otros. Mostrar en un mapa todos los sitios por los que me he movido.
+		+ Crear sitios donde juntar información sobre temas que me interesan y utilizarlo de referencia:
+			+ Vegetariano
+			+ Criptomonedas
+
+	* Volver a bloquear el teléfono para ver si lo puedo mandar a la garantía.
+	
